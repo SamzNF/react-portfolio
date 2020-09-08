@@ -1,13 +1,13 @@
 {
   "main": {
     "name": "Sam Garcia",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "occupation": "ReactJS Developer OJT && Trainee @CleverProgrammer",
+    "description": "Full Stack React Developer by Night, Founder && Community Developer by Day. #papaReact",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "bio": "My name is Sam, I'm a Full Stack ReactJS Developer Trainee. Currently I'm working at Clever Programmer while also life coaching ",
+    "contactmessage": "Get in touch with me to receive further details, get coached in life or anything else.",
+    "email": "samg8975@gamail.com",
+    "phone": "+821086471608",
     "address": {
       "street": "123 Fake Street",
       "city": "London",
