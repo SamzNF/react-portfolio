@@ -1,12 +1,12 @@
 {
   "main": {
-    "name": "Sonny Sangha",
+    "name": "Sam Garcia",
     "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
     "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "bio": "My name is Sam, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer at the same time life coaching ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
+    "email": "samg8975@gmail.com",
     "phone": "+44 12 345 6789",
     "address": {
       "street": "123 Fake Street",
@@ -19,12 +19,12 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/bbutchi",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/sam-garcia-b88187140/",
         "className": "fa fa-linkedin"
       },
       {
@@ -131,8 +131,7 @@
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "That Sam must be one of the best budding student developers I've ever met! It will be amazing to absorb him in your company. Hire this guy, I'm sure he will catapult your outfit in no time! His academic performance will verify that well.
       }
     ]
   }
